@@ -16,7 +16,7 @@
 
 🏆 I usually work with **_.NET_** <img src="https://skillicons.dev/icons?i=dotnet" width=16px/> and **_ASP.NET_**.<br>
 🌱 I'm an enthusiast of **_Microsoft_** ecosystem including **_.NET_** <img src="https://skillicons.dev/icons?i=dotnet" width=16px/> and **_Azure_** <img src="https://skillicons.dev/icons?i=azure" width=16px/>.<br>
-🎉 I graduated from VNU - HCM Universsity of Science.<br>
+🎉 I graduated from VNU - HCM University of Science.<br>
 
 ## ☎️ Connect with me:
 
